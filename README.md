@@ -3,13 +3,10 @@
 <h2>DATE OF BIRTH : 16.04.2004</h2>
 <h2>RESIDING PLACE : Tambaram,Chennai</h2>
 <h2>LANGUAGES KNOWN : Tamil,English,Sourashtra,Hindi(Basic)</h2>
-<h2>HOBBIES : Collecting some informative stuffs</h2>
-          <h2>Learning more about codings</h2>
-          <h2>Drawing and solving word puzzles</h2>
+<h2>HOBBIES : Collecting some informative stuffs , Learning more about codings , Drawing and solving word puzzles</h2>
 <h2>CONTACT DETAILS :</h2>
-             <h2>PHONE : 8248461697</h2>
-             <h2>EMAIL : rashnii16@gmail.com</h2>  
-                     <h2>sec22cj024@sairamtap.edu.in</h2>
+<h2>PHONE : 8248461697</h2>
+<h2>EMAIL : rashnii16@gmail.com</h2>  
 
 
  <h1>EDUCATION</h1>
